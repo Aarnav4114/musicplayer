@@ -1,0 +1,7 @@
+i want to build HTML CSS and JS base personal music player.
+
+Base Color is Blue and White.
+
+I want to add multiple Paylist, Equilizer, all advance music player controlers, Toogle color options, Off Timer, volume controller. mute option. you can check from your end.
+
+make highly advance UI for this player, but make Minimal design. 
